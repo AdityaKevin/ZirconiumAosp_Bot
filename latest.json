@@ -1,0 +1,19 @@
+[
+   {
+      "rom": "ZirconiumAosp",
+      "rom_tag": "Aoszp",
+      "build_type": "official",
+      "version": "IGNITE",
+      "build_date": "(2019/03/08)",
+      "image": "images/Z.jpg",
+      "device": "Redmi 5A",
+      "codename": "Riva",
+      "thread_link": "",
+      "download_link": "https://sourceforge.net/projects/zirconiumaosp",
+      "developer_name": "Sunny Raj",
+      "developer_contact": "https://t.me/sunnyraj84348",
+      "changelog": "changelog.txt",
+      "group_link": "https://t.me/ZirconiumAospChat"
+   }
+]
+
